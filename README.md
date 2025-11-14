@@ -35,8 +35,8 @@ This project demonstrates two fundamental memory systems for AI agents:
 
 ```
 project/
-├── stm_agent.py          # Short-term memory implementation
-├── ltm.py                # Long-term memory implementation
+├── agent_stm_native.py          # Short-term memory implementation
+├── agent_ltm_native.py                # Long-term memory implementation
 ├── requirements.txt      # Python dependencies
 ├── .env                  # Environment variables (create this)
 └── ltm_store/           # Vector database storage (auto-generated)

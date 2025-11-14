@@ -1,0 +1,7 @@
+langchain-community
+langchain-huggingface
+langgraph
+python-dotenv
+langgraph-checkpoint-sqlite
+faiss-cpu
+sentence-transformers
